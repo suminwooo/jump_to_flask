@@ -1,9 +1,0 @@
-set 대신에 export 활용
-
-1. export FLASK_APP=pybo
-2. export FLASK_ENV=development
-3. export PYTHONDONTWRITEBYTECODE=1
-
-
-
-** bashrc? 활용법 찾기
